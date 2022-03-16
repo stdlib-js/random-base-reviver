@@ -1,0 +1,43 @@
+{
+  "name": "@stdlib/random-base-reviver",
+  "version": "0.0.0",
+  "description": "Revive a JSON-serialized pseudorandom number generator (PRNG).",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/random-base-reviver.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdutils",
+    "stdutil",
+    "utils",
+    "util",
+    "utilities",
+    "utility",
+    "prng",
+    "rng",
+    "random",
+    "rand",
+    "json",
+    "reviver",
+    "revive",
+    "unmarshal",
+    "deserialize",
+    "from",
+    "convert",
+    "parse",
+    "object",
+    "obj"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
