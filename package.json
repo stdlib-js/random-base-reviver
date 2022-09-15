@@ -93,6 +93,7 @@
     "@stdlib/fs-exists": "^0.0.x",
     "@stdlib/fs-read-dir": "^0.0.x",
     "@stdlib/fs-write-file": "^0.0.x",
+    "@stdlib/time-current-year": "^0.0.x",
     "@stdlib/utils-copy": "^0.0.x",
     "@stdlib/utils-parse-json": "^0.0.x",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
