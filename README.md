@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import reviveBasePRNG from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-reviver@deno/mod.js';
+import reviveBasePRNG from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-reviver@v0.1.0-deno/mod.js';
 ```
 
 #### reviveBasePRNG( key, value )
@@ -94,7 +94,7 @@ For details on the JSON serialization format, see the `.toJSON()` method for, e.
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import parseJSON from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-parse-json@deno/mod.js';
-import reviveBasePRNG from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-reviver@deno/mod.js';
+import reviveBasePRNG from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-reviver@v0.1.0-deno/mod.js';
 
 // Progress the PRNG state...
 var r1;
