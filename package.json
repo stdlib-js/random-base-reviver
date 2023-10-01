@@ -84,7 +84,8 @@
     "@stdlib/random-base-t": "^0.1.0",
     "@stdlib/random-base-triangular": "^0.1.0",
     "@stdlib/random-base-uniform": "^0.1.0",
-    "@stdlib/random-base-weibull": "^0.1.0"
+    "@stdlib/random-base-weibull": "^0.1.0",
+    "@stdlib/error-tools-fmtprodmsg": "^0.1.0"
   },
   "devDependencies": {
     "@stdlib/array-to-json": "^0.1.0",
