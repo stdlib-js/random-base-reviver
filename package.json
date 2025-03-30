@@ -38,9 +38,9 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
+    "@stdlib/array-base-assert-contains": "^0.2.2",
     "@stdlib/array-int32": "^0.2.2",
     "@stdlib/array-uint32": "^0.2.2",
-    "@stdlib/assert-contains": "^0.2.2",
     "@stdlib/assert-is-array": "^0.2.2",
     "@stdlib/assert-is-plain-object": "^0.2.2",
     "@stdlib/assert-is-string": "^0.2.2",
