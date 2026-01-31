@@ -71,7 +71,7 @@
     "@stdlib/random-base-logistic": "^0.2.1",
     "@stdlib/random-base-lognormal": "^0.2.1",
     "@stdlib/random-base-minstd": "^0.2.1",
-    "@stdlib/random-base-minstd-shuffle": "^0.2.1",
+    "@stdlib/random-base-minstd-shuffle": "^0.2.2",
     "@stdlib/random-base-mt19937": "^0.2.1",
     "@stdlib/random-base-negative-binomial": "^0.2.1",
     "@stdlib/random-base-normal": "^0.2.1",
