@@ -92,7 +92,7 @@
     "@stdlib/fs-exists": "^0.2.3",
     "@stdlib/fs-read-dir": "^0.2.3",
     "@stdlib/fs-write-file": "^0.2.3",
-    "@stdlib/string-format": "^0.2.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.3",
     "@stdlib/time-current-year": "^0.2.3",
     "@stdlib/utils-copy": "^0.2.3",
     "@stdlib/utils-parse-json": "^0.2.3",
